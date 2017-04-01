@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/apati04/poll-app#readme",
   "dependencies": {
+    "bootstrap": "^3.3.7",
     "express": "^4.15.2"
   }
 }
